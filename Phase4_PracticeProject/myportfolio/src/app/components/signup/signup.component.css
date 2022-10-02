@@ -1,0 +1,13 @@
+.container{
+    padding-top:100px;
+    font-size:20px;
+}
+label{
+    width:240px;
+    display:inline-block;
+    text-align:right;
+}
+form{
+    width:550px;
+    padding-left:350px;
+}

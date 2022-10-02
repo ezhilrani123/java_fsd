@@ -1,0 +1,19 @@
+
+
+
+
+.land{
+    border: 2px solid;
+    width:1300px;
+    height:430px;
+    margin-left: 30px;
+    text-align:center;
+
+    padding-top: 140px;
+    
+    background-image: url(p.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-decoration-style: double;
+}
+

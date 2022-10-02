@@ -1,0 +1,26 @@
+.head{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width:1300px;
+   background-color: #5e5d5a;
+    border:2px solid rgb(202, 182, 182);
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.PortFolio{
+    padding-top:1200px;
+   padding-right: 700px; 
+   font-size: 50px;
+   color:white;
+}
+.sign,.signup{
+color:rgb(233, 222, 243);
+padding-right: 50px;
+font-size: 25px;
+font-style: italic;
+
+}
+
+
