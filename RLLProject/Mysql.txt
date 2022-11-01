@@ -1,1 +1,11 @@
+create database employe_epayroll;
+use employee_payroll;
 
+ 
+
+select * from admin;
+select * from attendance;
+select * from employee;
+select * from leaves;
+select * from schedule;
+select * from timesheet;
